@@ -27,5 +27,5 @@
 
 微分積分学の基本定理とかめちゃくちゃ美しくないですか？
 
-$\dfrac{d}{dx}\int _a^x f(t)dt = f(x)$
+$$\dfrac{d}{dx}\int _a^x f(t)dt = f(x)$$
 
