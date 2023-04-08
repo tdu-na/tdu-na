@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=tdu-na)
+![](https://komarev.com/ghpvc/?username=tdu-na&color=brightgreen)
 # About tdu-na
 
 どっかの理系大学生です。
