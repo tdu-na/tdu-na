@@ -21,6 +21,7 @@
 ## アウトプット
 読書はこちらでまとめています。
 - [Scrapbox - tduna](https://scrapbox.io/tduna/)
+
 外部での発表やスライドなどはこちらに載せています。
 - [2023 マンスリーハッカソンvol.5](https://twitter.com/geek_pjt/status/1675418593583042561)
 
