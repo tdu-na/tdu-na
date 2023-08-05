@@ -5,7 +5,7 @@
 # About tdu-na
 [Twitter](https://twitter.com/tdu_na)
 
-どっかの理系大学生です。
+東京電機大学の4年の学生です。
 
 よろしくおねがいします。
 
