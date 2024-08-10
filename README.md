@@ -3,7 +3,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tdu-na&theme=solarized_dark)
 
 # About tdu-na
-[Twitter](https://twitter.com/tdu_na)
+[X](https://x.com/_tduna)
 
 東京電機大学の修士1年の学生です。
 
