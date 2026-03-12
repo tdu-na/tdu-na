@@ -3,7 +3,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tdu-na&theme=solarized_dark)
 
 # About tdu-na
-[X](https://x.com/_tduna)
 
 IT企業のバックエンドエンジニアです。
 
