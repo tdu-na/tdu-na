@@ -4,6 +4,9 @@
 
 # About tdu-na
 
+詳細のプロフィールはこちらで
+[青木 直人のプロフィール - Wantedly](https://www.wantedly.com/id/tduna)
+
 IT企業のバックエンドエンジニアです。
 
 よろしくおねがいします。
