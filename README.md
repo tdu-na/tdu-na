@@ -52,6 +52,17 @@ IT企業のバックエンドエンジニアです。
 
 - パソコン：
   - Mac Book Air M3
+  - macOS 14.6.1 Sonoma
+  - SoC / CPU
+    - Apple M3
+  - メモリ
+    - 16GB
+  - ストレージ
+    - 512GB SSD
+  - ディスプレイ
+    - 2560 x 1664 Retina
+  - シェル
+    - zsh
   - Windows デスクトップパソコン (FRZAB550W/A)
     - OS: Windows 11 Home 64bit
     - CPU: AMD Ryzen 7 5700X
