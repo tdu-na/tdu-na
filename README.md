@@ -53,7 +53,7 @@ IT企業のバックエンドエンジニアです。
 
 - パソコン：
   - Mac Book Air M3
-    - OS: macOS 14.6.1 Sonoma
+    - OS: macOS 26.3.1 Tahoe
     - CPU: Apple M3
     - メモリ: 16GB Micron LPDDR5 
     - ストレージ: 512GB SSD
