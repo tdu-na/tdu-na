@@ -17,6 +17,7 @@ IT企業のバックエンドエンジニアです。
   - ニャオハとフシギダネが好きすぎて困ってる。
   - ぽこあポケモンで出てくるフシギダネが本当に可愛い…
 - Claude Code 触ったり
+- Codex CLI 触ったり
 - ~~Claude Codeは金がかかるので、~~ Antigravity 触ったり
 - 小説、歴史、学術書を読んだり
 - 自分の内省のために、日記を書いたり
@@ -52,9 +53,9 @@ IT企業のバックエンドエンジニアです。
 
 - パソコン：
   - Mac Book Air M3
-    - macOS 14.6.1 Sonoma
-    - CPU: - Apple M3
-    - メモリ: 16GB
+    - OS: macOS 14.6.1 Sonoma
+    - CPU: Apple M3
+    - メモリ: 16GB Micron LPDDR5 
     - ストレージ: 512GB SSD
     - ディスプレイ: 2560 x 1664 Retina
     - シェル: zsh
